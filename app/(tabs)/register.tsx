@@ -38,9 +38,9 @@ const register = () => {
         alignItems: "center",
         backgroundColor: "teal",
       }}>
-        <Text style={{ fontSize: 24, color: "white", fontWeight: 'bold', marginBottom: 20 }}
+        <Text style={{ fontSize: 14, color: "white", fontWeight: 'bold', marginBottom: 20 }}
         >
-          Welcome to the NTWRTH!
+          Welcome to the your Social Networking Application!
         </Text>
         <TextInput style={styles.input} placeholder='Full Name'></TextInput>
         <TextInput style={styles.input} placeholder='Email Address'></TextInput>
