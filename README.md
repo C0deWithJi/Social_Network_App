@@ -2,6 +2,8 @@ This application poses as a shell for a collarborative project of building a soc
 
 Within this repository are the begining frameworks of the application, highlighting the navigation bar, login, and registration pages.
 
+Download the code to your local device and run it to see how you like it or you would change it!
+
 To run this project using CLI, use the following list of commands:
 
 1. "npm install" 
